@@ -1,4 +1,4 @@
-# Rock Paper Scissor....Shoot.
+# Rock Paper Scissors....Shoot.
 
 RPS game, part of The Odin Project walkthrough.
 Allows the player to make a choice and randomizes the computer's choice.
