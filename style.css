@@ -23,17 +23,17 @@ button:hover {
 }
 
 .rock {
-    background-image: url("./imgs/rock.jpeg");
+    background-image: url("/imgs/rock.jpeg");
     font-weight: 700;
 }
 
 .paper {
-    background-image: url("./imgs/paper.jpeg");
+    background-image: url("/imgs/paper.jpeg");
     font-weight: 700;
 }
 
 .scissors {
-    background-image: url("./imgs/scissors.jpg");
+    background-image: url("/imgs/scissors.jpg");
     color: white;
     font-weight: 700;
 }
